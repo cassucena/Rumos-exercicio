@@ -1,0 +1,13 @@
+C:\Users\caroline.assucena\Source\Repos\Rumos-exercicio\ClassLibrary2\bin\Debug\net7.0\ClassLibrary2.deps.json
+C:\Users\caroline.assucena\Source\Repos\Rumos-exercicio\ClassLibrary2\bin\Debug\net7.0\ClassLibrary2.dll
+C:\Users\caroline.assucena\Source\Repos\Rumos-exercicio\ClassLibrary2\bin\Debug\net7.0\ClassLibrary2.pdb
+C:\Users\caroline.assucena\Source\Repos\Rumos-exercicio\ClassLibrary2\bin\Debug\net7.0\ClassLibrary2.xml
+C:\Users\caroline.assucena\Source\Repos\Rumos-exercicio\ClassLibrary2\obj\Debug\net7.0\ClassLibrary2.fsproj.AssemblyReference.cache
+C:\Users\caroline.assucena\Source\Repos\Rumos-exercicio\ClassLibrary2\obj\Debug\net7.0\ClassLibrary2.AssemblyInfoInputs.cache
+C:\Users\caroline.assucena\Source\Repos\Rumos-exercicio\ClassLibrary2\obj\Debug\net7.0\ClassLibrary2.AssemblyInfo.fs
+C:\Users\caroline.assucena\Source\Repos\Rumos-exercicio\ClassLibrary2\obj\Debug\net7.0\ClassLibrary2.fsproj.CoreCompileInputs.cache
+C:\Users\caroline.assucena\Source\Repos\Rumos-exercicio\ClassLibrary2\obj\Debug\net7.0\ClassLibrary2.dll
+C:\Users\caroline.assucena\Source\Repos\Rumos-exercicio\ClassLibrary2\obj\Debug\net7.0\refint\ClassLibrary2.dll
+C:\Users\caroline.assucena\Source\Repos\Rumos-exercicio\ClassLibrary2\obj\Debug\net7.0\ClassLibrary2.xml
+C:\Users\caroline.assucena\Source\Repos\Rumos-exercicio\ClassLibrary2\obj\Debug\net7.0\ClassLibrary2.pdb
+C:\Users\caroline.assucena\Source\Repos\Rumos-exercicio\ClassLibrary2\obj\Debug\net7.0\ref\ClassLibrary2.dll

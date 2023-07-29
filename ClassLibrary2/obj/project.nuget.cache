@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Z/ZtvF0kSEj/2g9/XWDdrsnlMDvwHlczfhnkbPvhq4AHc2oScxaEPttby3lM5vhqLYm01TMZzDm2wmb8o/aMSA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\caroline.assucena\\Source\\Repos\\Rumos-exercicio\\ClassLibrary2\\ClassLibrary2.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\caroline.assucena\\.nuget\\packages\\fsharp.core\\7.0.300\\fsharp.core.7.0.300.nupkg.sha512"
+  ],
+  "logs": []
+}
